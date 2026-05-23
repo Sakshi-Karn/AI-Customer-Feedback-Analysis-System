@@ -2,6 +2,8 @@
 
 ## Overview
 This project is a MERN Stack based web application that analyzes customer feedback using AI-powered sentiment analysis.
+<img width="1108" height="606" alt="image" src="https://github.com/user-attachments/assets/4145f363-f492-443e-aeb6-f7dba9188e5b" />
+
 
 The system classifies feedback into:
 - Positive
@@ -9,6 +11,8 @@ The system classifies feedback into:
 - Neutral
 
 It also provides dashboard analytics and graphical sentiment visualization.
+
+<img width="842" height="611" alt="image" src="https://github.com/user-attachments/assets/b8a36236-8ccf-4d51-9768-2cd0f84f2ce1" />
 
 ---
 
